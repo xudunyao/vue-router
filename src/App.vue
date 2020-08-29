@@ -6,6 +6,7 @@
       <router-link to="/student">学生</router-link>
       <router-link to="/about">关于</router-link>
       <router-link to="/activity">活动</router-link>
+      <div>window</div>
     </div>
     <div class="content">
        <router-view></router-view>
