@@ -7,6 +7,7 @@
       <router-link to="/about">关于</router-link>
       <router-link to="/activity">活动</router-link>
       <div>os</div>
+      <div>window</div>
     </div>
     <div class="content">
        <router-view></router-view>
