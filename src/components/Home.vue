@@ -4,6 +4,7 @@
       <iframe class="filename" :src="url" width="100%" height="580"></iframe>
       <a href="https://misuyunpu.oss-cn-shenzhen.aliyuncs.com/09595250.jpg" target="_blank">生生世世少</a>
        <a href="https://view.officeapps.live.com/op/view.aspx?src=https://misuyunpu.oss-cn-shenzhen.aliyuncs.com/New%20DOCX%20%E6%96%87%E6%A1%A3.docx" target="_blank">少</a>
+       <div>os的home.vue的文件修改</div>
     </div>
    
 </template>
