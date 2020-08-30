@@ -10,6 +10,7 @@
       <div>window</div>
       <div>window1</div>
       <div>os2</div>
+        <div>window2</div>
     </div>
     <div class="content">
        <router-view></router-view>
