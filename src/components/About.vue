@@ -4,5 +4,6 @@
          <div>我是新增加的内容</div>
          <div>WINDOW我是新增加的内容</div>
           <div>OS我是新增加的内容</div>
+          <div>WINDOW1About.vue文件的修改</div>
     </div>
 </template>
