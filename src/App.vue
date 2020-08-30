@@ -12,6 +12,8 @@
       <div>os2</div>
         <div>window2</div>
         <div>os3</div>
+      <div>window2</div>
+      <div>window3</div>
     </div>
     <div class="content">
        <router-view></router-view>
