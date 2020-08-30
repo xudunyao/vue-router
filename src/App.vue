@@ -8,6 +8,7 @@
       <router-link to="/activity">活动</router-link>
       <div>os</div>
       <div>window</div>
+      <div>window1</div>
     </div>
     <div class="content">
        <router-view></router-view>
