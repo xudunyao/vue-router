@@ -4,5 +4,6 @@
         <span>window</span>
         <span>os</span>
         <span>os1</span>
+        <div>window?person.vue?????</div>
     </div>
 </template>
