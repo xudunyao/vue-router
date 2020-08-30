@@ -5,6 +5,6 @@
         <div>111111</div>
         <div>222222</div>
         <div>333333</div>
-        <div>os的learn.vue的文件修改</div>
+          <div>window的learn文件修改</div>
     </div>
 </template>
